@@ -22,7 +22,7 @@ public class Database {
 
     @Override
     public String toString() {
-        return "Database:\n" +
+        return "FryPotatoes:\n" +
                 "\nВерсия: " + version +
                 "\nДата: " + date + "\n";
     }
